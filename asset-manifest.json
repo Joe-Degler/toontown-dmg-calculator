@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/toontown-dmg-calculator/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/toontown-dmg-calculator/static/js/main.487c12a6.chunk.js",
+    "main.js.map": "/toontown-dmg-calculator/static/js/main.487c12a6.chunk.js.map",
+    "runtime-main.js": "/toontown-dmg-calculator/static/js/runtime-main.a604ec12.js",
+    "runtime-main.js.map": "/toontown-dmg-calculator/static/js/runtime-main.a604ec12.js.map",
+    "static/js/2.5ab90ce5.chunk.js": "/toontown-dmg-calculator/static/js/2.5ab90ce5.chunk.js",
+    "static/js/2.5ab90ce5.chunk.js.map": "/toontown-dmg-calculator/static/js/2.5ab90ce5.chunk.js.map",
+    "static/js/3.7af295e0.chunk.js": "/toontown-dmg-calculator/static/js/3.7af295e0.chunk.js",
+    "static/js/3.7af295e0.chunk.js.map": "/toontown-dmg-calculator/static/js/3.7af295e0.chunk.js.map",
+    "index.html": "/toontown-dmg-calculator/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/toontown-dmg-calculator/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.5ab90ce5.chunk.js.LICENSE.txt": "/toontown-dmg-calculator/static/js/2.5ab90ce5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/toontown-dmg-calculator/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a604ec12.js",
+    "static/js/2.5ab90ce5.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.487c12a6.chunk.js"
+  ]
+}
